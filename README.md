@@ -53,5 +53,5 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 ## Learning
 
 [MobiCom'20] [Billion-scale federated learning on mobile clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
-[OSDI'20] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf)
+[OSDI'20] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) </br>
 [ASPLOS'19]  [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br>
