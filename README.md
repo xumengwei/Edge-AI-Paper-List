@@ -23,7 +23,11 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [OnRL: improving mobile video telephony via online reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186) </br>
 [EuroSys'19] [µLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization](https://dl.acm.org/doi/pdf/10.1145/3302424.3303950) </br>
 [ASPLOS'20]  [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://dl.acm.org/doi/pdf/10.1145/3373376.3378534) </br>
-
+[mobisys‘18].[On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework](https://doi.org/10.1145/3210240.3210337)</br>
+[mobisys‘18].[FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices](https://doi.org/10.1145/3274783.3274840)</br>
+[SenSys‘19].[DeepAPP: a deep reinforcement learning framework for mobile application usage prediction](https://doi.org/10.1145/3356250.3360038)</br>
+[mobisys‘20].[Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency](https://doi.org/10.1145/3384419.3430898)</br>
+[mobisys‘20].[MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices](https://doi.org/10.1145/3384419.3430716)</br>
 
 ## AR/VR
 
@@ -38,7 +42,12 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419215) </br>
 [MobiCom'20] [EagleEye: wearable camera-based person identification in crowded urban spaces](https://dl.acm.org/doi/pdf/10.1145/3372224.3380881) </br>
 [ASPLOS'18]  [SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing](https://dl.acm.org/doi/pdf/10.1145/3037697.3037746) </br>
-
+[mobisys‘16]. [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](https://doi.org/10.1145/2906388.2906396)</br>
+[mobisys‘20].[EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices](https://doi.org/10.1145/3386901.3388917)</br>
+[mobisys‘20].[Approximate query service on autonomous IoT cameras](https://doi.org/10.1145/3386901.3388948)</br>
+[SenSys‘16].[Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
+[SenSys‘17].[DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework](https://doi.org/10.1145/3131672.3131675)</br>
+[SenSys‘19].[Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems](https://doi.org/10.1145/3356250.3360030)</br>
 ## Energy-harvested devices
 
 [ASPLOS'19] [Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems](https://brandonlucia.com/pubs/2019.asplos.sonic.pdf) </br>
@@ -55,3 +64,4 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [Billion-scale federated learning on mobile clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
 [OSDI'20] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) </br>
 [ASPLOS'19]  [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br>
+[SenSys‘19].[MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing](https://doi.org/10.1145/3356250.3360020)</br>
