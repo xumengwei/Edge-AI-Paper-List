@@ -21,11 +21,14 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/pdf/10.1145/3372224.3419192) </br>
 [MobiCom'20] [NEMO: enabling neural-enhanced video streaming on commodity mobile devices](https://dl.acm.org/doi/pdf/10.1145/3372224.3419185) </br>
 [MobiCom'20] [OnRL: improving mobile video telephony via online reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186) </br>
+[EuroSys'19] [µLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization](https://dl.acm.org/doi/pdf/10.1145/3302424.3303950) </br>
+[ASPLOS'20]  [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://dl.acm.org/doi/pdf/10.1145/3373376.3378534) </br>
 
 
 ## AR/VR
 
 [MobiCom'19] [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](https://dl.acm.org/doi/10.1145/3300061.3300116) </br>
+[EuroSys'19] [Transparent AR Processing Acceleration at the Edge](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) </br>
 
 ## IoTs
 
@@ -42,6 +45,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 [MobiCom'19] [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/doi/10.1145/3300061.3345447) </br>
 [MobiCom'20] [FaceRevelio: a face liveness detection system for smartphones with a single front camera](https://dl.acm.org/doi/pdf/10.1145/3372224.3419206) </br>
+[EuroSys'19] [Forward and Backward Private Searchable Encryption with SGX](https://dl.acm.org/doi/pdf/10.1145/3301417.3312496) </br>
+[ASPLOS'20]  [DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532) </br>
 
 ## Learning
 
