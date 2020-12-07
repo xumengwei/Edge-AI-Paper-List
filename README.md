@@ -48,6 +48,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys'17] [Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision](https://dl.acm.org/ft_gateway.cfm?id=3081347&ftid=1882638&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [MobiSys‘16] [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](https://doi.org/10.1145/2906388.2906396)</br>
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
+[SigComm'20] [Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) </br>
+[SigComm'20] [Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning](https://dl.acm.org/doi/pdf/10.1145/3387514.3405856) </br>
 ## Energy-harvested devices
 [SenSys‘20] [Ember: Energy Management of Batteryless Event Detection Sensors with Deep Reinforcement Learning](https://doi.org/10.1145/3384419.3430734)</br>
 [ASPLOS'19] [Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems](https://brandonlucia.com/pubs/2019.asplos.sonic.pdf) </br>
@@ -65,3 +67,5 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [OSDI'20] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) </br>
 [ASPLOS'19] [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br>
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
+[SigComm'20] [Server-Driven Video Streaming for Deep Learning Inference](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) </br>
+[]
