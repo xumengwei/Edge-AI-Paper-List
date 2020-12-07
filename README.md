@@ -68,4 +68,3 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [ASPLOS'19] [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br>
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
 [SigComm'20] [Server-Driven Video Streaming for Deep Learning Inference](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) </br>
-[]
