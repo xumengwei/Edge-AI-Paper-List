@@ -67,3 +67,5 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
+
+Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
