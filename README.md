@@ -40,11 +40,9 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 ## IoTs
 [MobiSys‘20] [EMO: Real-time Emotion Recognition From Single-eye Images for Resource-constrained Eyewear Devices](https://doi.org/10.1145/3386901.3388917)</br>
-[MobiSys‘20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
 [MobiCom'20] [CLIO: Enabling Automatic Compilation of Deep Learning Pipelines Across IoT and Cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419215) </br>
 [MobiCom'20] [EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces](https://dl.acm.org/doi/pdf/10.1145/3372224.3380881) </br>
 [SigComm'20] [Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) </br>
-<!---[SigComm'20] [Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning](https://dl.acm.org/doi/pdf/10.1145/3387514.3405856) </br>-->
 [MobiCom'19] [Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision](https://dl.acm.org/doi/10.1145/3300061.3345448) </br>
 [SenSys‘19] [Neuro.ZERO: A Zero-energy Neural Network Accelerator for Embedded Sensing and Inference Systems](https://doi.org/10.1145/3356250.3360030)</br>
 [ASPLOS'18]  [SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing](https://dl.acm.org/doi/pdf/10.1145/3037697.3037746) </br>
@@ -54,6 +52,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
 
 ## Energy-harvested devices
+[MobiSys‘20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
 [SenSys‘20] [Ember: Energy Management of Batteryless Event Detection Sensors with Deep Reinforcement Learning](https://doi.org/10.1145/3384419.3430734)</br>
 [ASPLOS'19] [Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems](https://brandonlucia.com/pubs/2019.asplos.sonic.pdf) </br>
 
