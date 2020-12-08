@@ -1,6 +1,6 @@
 # Edge-AI-Paper-List
 
-**Target venues**: system conferences (*OSDI/SOSP/ATC/EuroSys/ASPLOS*) and mobile conferences (*MobiCom/MobiSys/SenSys*). *UbiComp* will be included as well in near future.
+**Target venues**: system conferences (*OSDI/SOSP/ATC/EuroSys/ASPLOS*), network conferences (*NSDI/SIGCOMM*) and mobile conferences (*MobiCom/MobiSys/SenSys*). *UbiComp* will be included as well in near future.
 
 Note: Edge here refers to resource-constrained devices, not edge servers; AI here mostly refers to deep learning.
 
@@ -19,7 +19,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'19] [RNN-Based Room Scale Hand Motion Tracking](https://dl.acm.org/doi/10.1145/3300061.3345439) </br>
 [MobiCom'19] [MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors](https://dl.acm.org/doi/10.1145/3300061.3345455) </br>
 [EuroSys'19] [µLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization](https://dl.acm.org/doi/pdf/10.1145/3302424.3303950) </br>
-[SenSys‘19][DeepAPP: A Deep Reinforcement Learning Framework for Mobile Application Usage Prediction](https://doi.org/10.1145/3356250.3360038)</br>
+[SenSys‘19] [DeepAPP: A Deep Reinforcement Learning Framework for Mobile Application Usage Prediction](https://doi.org/10.1145/3356250.3360038)</br>
 [MobiCom'18] [DeepCache: Principled Cache for Mobile Deep Vision](https://dl.acm.org/doi/10.1145/3241539.3241563) </br>
 [MobiCom'18] [NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision](https://dl.acm.org/doi/10.1145/3241539.3241559) </br>
 [MobiCom'18] [FoggyCache: Cross-Device Approximate Computation Reuse](https://dl.acm.org/doi/10.1145/3241539.3241557) </br>
@@ -29,6 +29,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys'17] [MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images](https://dl.acm.org/ft_gateway.cfm?id=3081336&ftid=1882628&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [MobiSys'17] [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](https://dl.acm.org/ft_gateway.cfm?id=3081359&ftid=1882636&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [MobiSys'17] [DeepMon: Building Mobile GPU Deep Learning Models for Continuous Vision Applications](https://dl.acm.org/ft_gateway.cfm?id=3081360&ftid=1882639&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
+[ASPLOS'17] [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://dl.acm.org/doi/10.1145/3037697.3037698) </br>
 
 ## AR/VR
 [ASPLOS'20] [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) </br>
@@ -42,7 +43,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [CLIO: Enabling Automatic Compilation of Deep Learning Pipelines Across IoT and Cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419215) </br>
 [MobiCom'20] [EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces](https://dl.acm.org/doi/pdf/10.1145/3372224.3380881) </br>
 [SigComm'20] [Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) </br>
-[SigComm'20] [Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning](https://dl.acm.org/doi/pdf/10.1145/3387514.3405856) </br>
+<!---[SigComm'20] [Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning](https://dl.acm.org/doi/pdf/10.1145/3387514.3405856) </br>-->
 [MobiCom'19] [Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision](https://dl.acm.org/doi/10.1145/3300061.3345448) </br>
 [SenSys‘19] [Neuro.ZERO: A Zero-energy Neural Network Accelerator for Embedded Sensing and Inference Systems](https://doi.org/10.1145/3356250.3360030)</br>
 [ASPLOS'18]  [SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing](https://dl.acm.org/doi/pdf/10.1145/3037697.3037746) </br>
@@ -59,14 +60,13 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [FaceRevelio: A Face Liveness Detection System for Smartphones with A Single Front Camera](https://dl.acm.org/doi/pdf/10.1145/3372224.3419206) </br>
 [ASPLOS'20] [DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532) </br>
 [MobiCom'19] [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/doi/10.1145/3300061.3345447) </br>
-[EuroSys'19] [Forward and Backward Private Searchable Encryption with SGX](https://dl.acm.org/doi/pdf/10.1145/3301417.3312496) </br>
+<!--- [EuroSys'19] [Forward and Backward Private Searchable Encryption with SGX](https://dl.acm.org/doi/pdf/10.1145/3301417.3312496) </br> -->
 
 
 ## Learning
 
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
-[SigComm'20] [Server-Driven Video Streaming for Deep Learning Inference](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) </br>
-[OSDI'20] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) </br>
-[ASPLOS'19] [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br>
+<!--- [SigComm'20] [Server-Driven Video Streaming for Deep Learning Inference](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) </br> -->
+<!--- [ASPLOS'19] [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br> -->
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
 
