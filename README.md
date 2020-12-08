@@ -16,6 +16,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys‘20] [Fast and scalable In-memory Deep Multitask Learning via Neural Weight Virtualization](https://doi.org/10.1145/3386901.3388947)</br>
 [MobiSys‘20] [MDLdroidLite: A Release-and-inhibit Control Approach to Resource-efficient Deep Neural Networks on Mobile Devices](https://doi.org/10.1145/3384419.3430716)</br>
 [MobiSys'20] [RF-net: A Unified Meta-learning Framework for RF-enabled One-shot Human Activity Recognition](https://doi.org/10.1145/3384419.3430735)</br>
+[SenSys'20] [MobiPose: real-time multi-person pose estimation on mobile devices](https://dl.acm.org/doi/abs/10.1145/3384419.3430726) </br>
 [MobiCom'19] [RNN-Based Room Scale Hand Motion Tracking](https://dl.acm.org/doi/10.1145/3300061.3345439) </br>
 [MobiCom'19] [MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors](https://dl.acm.org/doi/10.1145/3300061.3345455) </br>
 [EuroSys'19] [µLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization](https://dl.acm.org/doi/pdf/10.1145/3302424.3303950) </br>
@@ -66,7 +67,4 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 ## Learning
 
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
-<!--- [SigComm'20] [Server-Driven Video Streaming for Deep Learning Inference](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) </br> -->
-<!--- [ASPLOS'19] [Hop: Heterogeneity-aware Decentralized Training](https://dl.acm.org/doi/pdf/10.1145/3297858.3304009) </br> -->
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
-
