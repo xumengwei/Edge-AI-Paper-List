@@ -31,6 +31,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys'17] [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](https://dl.acm.org/ft_gateway.cfm?id=3081359&ftid=1882636&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [MobiSys'17] [DeepMon: Building Mobile GPU Deep Learning Models for Continuous Vision Applications](https://dl.acm.org/ft_gateway.cfm?id=3081360&ftid=1882639&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [ASPLOS'17] [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://dl.acm.org/doi/10.1145/3037697.3037698) </br>
+[Ubicomp'15] [DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning](https://dl.acm.org/doi/pdf/10.1145/2750858.2804262) </br>
+[Ubicomp'16] [SpotGarbage: Smartphone App to Detect Garbage Using Deep Learning](https://dl.acm.org/doi/pdf/10.1145/2971648.2971731) </br>
 
 ## AR/VR
 [ASPLOS'20] [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) </br>
@@ -50,6 +52,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys'17] [Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision](https://dl.acm.org/ft_gateway.cfm?id=3081347&ftid=1882638&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [MobiSys‘16] [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](https://doi.org/10.1145/2906388.2906396)</br>
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
+[Ubicomp'17] [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://dl.acm.org/doi/pdf/10.1145/3131895)</br>
 
 ## Energy-harvested devices
 [MobiSys‘20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
