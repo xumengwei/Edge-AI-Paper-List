@@ -31,8 +31,9 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys'17] [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](https://dl.acm.org/ft_gateway.cfm?id=3081359&ftid=1882636&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [MobiSys'17] [DeepMon: Building Mobile GPU Deep Learning Models for Continuous Vision Applications](https://dl.acm.org/ft_gateway.cfm?id=3081360&ftid=1882639&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
 [ASPLOS'17] [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://dl.acm.org/doi/10.1145/3037697.3037698) </br>
-[Ubicomp'15] [DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning](https://dl.acm.org/doi/pdf/10.1145/2750858.2804262) </br>
 [Ubicomp'16] [SpotGarbage: Smartphone App to Detect Garbage Using Deep Learning](https://dl.acm.org/doi/pdf/10.1145/2971648.2971731) </br>
+[Ubicomp'15] [DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning](https://dl.acm.org/doi/pdf/10.1145/2750858.2804262) </br>
+
 
 ## AR/VR
 [ASPLOS'20] [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) </br>
@@ -47,12 +48,14 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SigComm'20] [Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) </br>
 [MobiCom'19] [Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision](https://dl.acm.org/doi/10.1145/3300061.3345448) </br>
 [SenSys‘19] [Neuro.ZERO: A Zero-energy Neural Network Accelerator for Embedded Sensing and Inference Systems](https://doi.org/10.1145/3356250.3360030)</br>
+[IMWUT‘19] [Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices](https://doi.org/10.1145/3287036)</br>
 [ASPLOS'18]  [SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing](https://dl.acm.org/doi/pdf/10.1145/3037697.3037746) </br>
 [SenSys‘17] [DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework](https://doi.org/10.1145/3131672.3131675)</br>
 [MobiSys'17] [Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision](https://dl.acm.org/ft_gateway.cfm?id=3081347&ftid=1882638&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
+[Ubicomp'17] [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://dl.acm.org/doi/pdf/10.1145/3131895)</br>
 [MobiSys‘16] [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](https://doi.org/10.1145/2906388.2906396)</br>
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
-[Ubicomp'17] [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://dl.acm.org/doi/pdf/10.1145/3131895)</br>
+
 
 ## Energy-harvested devices
 [MobiSys‘20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
@@ -63,6 +66,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [FaceRevelio: A Face Liveness Detection System for Smartphones with A Single Front Camera](https://dl.acm.org/doi/pdf/10.1145/3372224.3419206) </br>
 [ASPLOS'20] [DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532) </br>
 [IMWUT'20] [Countering Acoustic Adversarial Attacks in Microphone-equipped mart Home Devices](https://doi.org/10.1145/3397332)</br>
+[IMWUT'19] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://doi.org/10.1145/3287075)</br>
+[IMWUT'19] [Keyboard Snooping from Mobile Phone Arrays with Mixed Convolutional and Recurrent Neural Networks](https://doi.org/10.1145/3328916)</br>
 [MobiCom'19] [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/doi/10.1145/3300061.3345447) </br>
 [EuroSys'19] [Forward and Backward Private Searchable Encryption with SGX](https://dl.acm.org/doi/pdf/10.1145/3301417.3312496) </br> 
 
