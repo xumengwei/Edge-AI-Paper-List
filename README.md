@@ -48,7 +48,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SigComm'20] [Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) </br>
 [MobiCom'19] [Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision](https://dl.acm.org/doi/10.1145/3300061.3345448) </br>
 [SenSys‘19] [Neuro.ZERO: A Zero-energy Neural Network Accelerator for Embedded Sensing and Inference Systems](https://doi.org/10.1145/3356250.3360030)</br>
-[IMWUT‘19] [Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices](https://doi.org/10.1145/3287036)</br>
+[Ubicomp‘19] [Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices](https://doi.org/10.1145/3287036)</br>
 [ASPLOS'18]  [SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing](https://dl.acm.org/doi/pdf/10.1145/3037697.3037746) </br>
 [SenSys‘17] [DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework](https://doi.org/10.1145/3131672.3131675)</br>
 [MobiSys'17] [Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision](https://dl.acm.org/ft_gateway.cfm?id=3081347&ftid=1882638&dwn=1&CFID=39793162&CFTOKEN=15a0f3fc0be5d576-24EC57D1-9A17-7F75-7BEC8FD035518031) </br>
