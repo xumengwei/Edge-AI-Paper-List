@@ -1,6 +1,8 @@
 # Edge-AI-Paper-List
 
-**Target venues**: system conferences (*OSDI/SOSP/ATC/EuroSys/ASPLOS*), network conferences (*NSDI/SIGCOMM*) and mobile conferences (*MobiCom/MobiSys/SenSys*). *UbiComp* will be included as well in near future.
+**Target venues**: system conferences (*OSDI/SOSP/ATC/EuroSys/ASPLOS*), network conferences (*NSDI/SIGCOMM*) and mobile conferences (*MobiCom/MobiSys/SenSys/UbiComp*).
+
+We will keep maintaining this list :)
 
 Note: Edge here refers to resource-constrained devices, not edge servers; AI here mostly refers to deep learning.
 
