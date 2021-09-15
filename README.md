@@ -44,6 +44,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 
 ## IoTs
+[ATC'21] [Video Analytics with Zero-streaming Cameras](https://xumengwei.github.io/files/ATC-DIVA.pdf)</br>
+[MobiSys'20] [Approximate Query Service on Autonomous IoT Cameras](https://xumengwei.github.io/files/MobiSys-Elf.pdf)</br>
 [MobiSys‘20] [EMO: Real-time Emotion Recognition From Single-eye Images for Resource-constrained Eyewear Devices](https://doi.org/10.1145/3386901.3388917)</br>
 [MobiCom'20] [CLIO: Enabling Automatic Compilation of Deep Learning Pipelines Across IoT and Cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419215) </br>
 [MobiCom'20] [EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces](https://dl.acm.org/doi/pdf/10.1145/3372224.3380881) </br>
@@ -78,5 +80,6 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
+[UbiComp'18] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)</br>
 
 Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
