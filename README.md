@@ -38,12 +38,16 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 
 ## AR/VR
+
 [ASPLOS'20] [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) </br>
 [MobiCom'19] [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](https://dl.acm.org/doi/10.1145/3300061.3300116) </br>
 [EuroSys'19] [Transparent AR Processing Acceleration at the Edge](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) </br>
 
+[ASPLOS'21] [Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering](https://dl.acm.org/doi/abs/10.1145/3445814.3446715) </br>
+
 
 ## IoTs
+
 [ATC'21] [Video Analytics with Zero-streaming Cameras](https://xumengwei.github.io/files/ATC-DIVA.pdf)</br>
 [MobiSys'20] [Approximate Query Service on Autonomous IoT Cameras](https://xumengwei.github.io/files/MobiSys-Elf.pdf)</br>
 [MobiSys‘20] [EMO: Real-time Emotion Recognition From Single-eye Images for Resource-constrained Eyewear Devices](https://doi.org/10.1145/3386901.3388917)</br>
@@ -60,13 +64,27 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiSys‘16] [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](https://doi.org/10.1145/2906388.2906396)</br>
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
 
+[ASPLOS'21] [Rhythmic Pixel Regions: Visual sensing architecture for flexible spatiotemporal resolution towards high-precision visual computing at low power](https://dl.acm.org/doi/abs/10.1145/3445814.3446737) </br>
+
+[NSDI'21] [AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel](https://www.usenix.org/conference/nsdi21/presentation/qian) </br>
+
+[NSDI'21] [MAVL: Multiresolution Analysis of Voice Localization](https://www.usenix.org/conference/nsdi21/presentation/wang)
+
+
+
 
 ## Energy-harvested devices
+
 [MobiSys‘20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
 [SenSys‘20] [Ember: Energy Management of Batteryless Event Detection Sensors with Deep Reinforcement Learning](https://doi.org/10.1145/3384419.3430734)</br>
 [ASPLOS'19] [Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems](https://brandonlucia.com/pubs/2019.asplos.sonic.pdf) </br>
 
+[ASPLOS'21] [Quantifying the Design-Space Tradeoffs in Autonomous Drones](https://dl.acm.org/doi/abs/10.1145/3445814.3446721) </br>
+
+[ASPLOS'21] [Rhythmic Pixel Regions: Visual sensing architecture for flexible spatiotemporal resolution towards high-precision visual computing at low power](https://dl.acm.org/doi/abs/10.1145/3445814.3446737) </br>
+
 ## Privacy&Security
+
 [MobiCom'20] [FaceRevelio: A Face Liveness Detection System for Smartphones with A Single Front Camera](https://dl.acm.org/doi/pdf/10.1145/3372224.3419206) </br>
 [ASPLOS'20] [DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532) </br>
 [Ubicomp'20] [Countering Acoustic Adversarial Attacks in Microphone-equipped mart Home Devices](https://doi.org/10.1145/3397332)</br>
@@ -82,7 +100,6 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
 [UbiComp'18] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)</br>
 
+[NSDI'21] [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo)</br>
+
 Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
-
-as
-
