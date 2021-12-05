@@ -83,3 +83,6 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [UbiComp'18] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)</br>
 
 Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
+
+as
+
