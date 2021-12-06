@@ -66,7 +66,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
 [ASPLOS'21] [Rhythmic Pixel Regions: Visual sensing architecture for flexible spatiotemporal resolution towards high-precision visual computing at low power](https://dl.acm.org/doi/abs/10.1145/3445814.3446737) </br>
 [NSDI'21] [AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel](https://www.usenix.org/conference/nsdi21/presentation/qian) </br>
-[NSDI'21] [MAVL: Multiresolution Analysis of Voice Localization](https://www.usenix.org/conference/nsdi21/presentation/wang)
+[NSDI'21] [MAVL: Multiresolution Analysis of Voice Localization](https://www.usenix.org/conference/nsdi21/presentation/wang)</br>
 [OSDI'20] [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](https://www.usenix.org/conference/osdi20/presentation/jiang)</br>
 [OSDI'20] [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/conference/osdi20/presentation/bai)</br>
 [OSDI'20] [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/conference/osdi20/presentation/gujarati)</br>
