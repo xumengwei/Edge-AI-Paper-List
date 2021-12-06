@@ -8,6 +8,14 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 ## Smartphones
 
+[MobiCom'21] [AsyMo: scalable and efficient deep-learning inference on asymmetric mobile CPUs](https://dl.acm.org/doi/10.1145/3447993.3448625) </br>
+[MobiCom'21] [Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading](https://dl.acm.org/doi/10.1145/3447993.3448628) </br>
+[MobiCom'21] [UltraSE: single-channel speech enhancement using ultrasound](https://dl.acm.org/doi/10.1145/3447993.3448626) </br>
+[MobiCom'21] [Experience: a five-year retrospective of MobileInsight](https://dl.acm.org/doi/10.1145/3447993.3448138) </br>
+[MobiCom'21] [LegoDNN: block-grained scaling of deep neural networks for mobile vision](https://dl.acm.org/doi/10.1145/3447993.3483249) </br>
+[MobiSys‘21] [Tap: an app framework for dynamically composable mobile systems](https://dl.acm.org/doi/10.1145/3458864.3467678) </br>
+[MobiSys‘21] [nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices](https://dl.acm.org/doi/10.1145/3458864.3467882) </br>
+[MobiSys‘21] [zTT: learning-based DVFS with zero thermal throttling for mobile devices](https://dl.acm.org/doi/10.1145/3458864.3468161) </br>
 [MobiCom'20] [Deep Learning Based Wireless Localization for Indoor Navigation](https://dl.acm.org/doi/pdf/10.1145/3372224.3380894) </br>
 [MobiCom'20] [SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194) </br>
 [MobiCom'20] [Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications](https://dl.acm.org/doi/pdf/10.1145/3372224.3419192) </br>
@@ -40,6 +48,9 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 ## AR/VR
 
+[MobiCom'21] [Face-Mic: inferring live speech and speaker identity via subtle facial dynamics captured by AR/VR motion sensors](https://dl.acm.org/doi/10.1145/3447993.3483272) </br>
+[MobiSys‘21] [Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality](https://dl.acm.org/doi/10.1145/3458864.3467886) </br>
+[MobiSys‘21] [LensCap: split-process framework for fine-grained visual privacy control for augmented reality apps](https://dl.acm.org/doi/10.1145/3458864.3467676) </br>
 [ASPLOS'20] [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) </br>
 [MobiCom'19] [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](https://dl.acm.org/doi/10.1145/3300061.3300116) </br>
 [EuroSys'19] [Transparent AR Processing Acceleration at the Edge](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) </br>
@@ -85,6 +96,9 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 ## Privacy&Security
 
+[MobiSys‘21] [SafetyNOT: on the usage of the SafetyNet attestation API in Android](https://dl.acm.org/doi/10.1145/3458864.3466627) </br>
+[MobiSys‘21] [Rushmore: securely displaying static and animated images using TrustZone](https://dl.acm.org/doi/10.1145/3458864.3467887) </br>
+[MobiSys‘21] [MobiCom'21] [PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation](https://dl.acm.org/doi/10.1145/3447993.3448618) </br>
 [MobiCom'20] [FaceRevelio: A Face Liveness Detection System for Smartphones with A Single Front Camera](https://dl.acm.org/doi/pdf/10.1145/3372224.3419206) </br>
 [ASPLOS'20] [DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532) </br>
 [Ubicomp'20] [Countering Acoustic Adversarial Attacks in Microphone-equipped mart Home Devices](https://doi.org/10.1145/3397332)</br>
@@ -101,6 +115,12 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 ## Learning
 
+[MobiCom'21] [Hermes: an efficient federated learning framework for heterogeneous mobile clients](https://dl.acm.org/doi/10.1145/3447993.3483278) </br>
+[MobiSys‘21] [PPFL: privacy-preserving federated learning with trusted execution environments](https://dl.acm.org/doi/10.1145/3458864.3466628) </br>
+[MobiSys‘21] [ClusterFL: a similarity-aware federated learning system for human activity recognition](https://dl.acm.org/doi/10.1145/3458864.3467681) </br>
+[SenSys‘21] [FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition](https://dl.acm.org/doi/10.1145/3485730.3485946) </br>
+[SenSys‘21] [Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling](https://dl.acm.org/doi/10.1145/3485730.3485930) </br>
+[SenSys‘21] [FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://dl.acm.org/doi/10.1145/3485730.3485929)  </br>
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
 [UbiComp'18] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)</br>
