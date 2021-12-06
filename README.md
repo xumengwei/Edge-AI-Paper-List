@@ -35,6 +35,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [ASPLOS'17] [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://dl.acm.org/doi/10.1145/3037697.3037698) </br>
 [Ubicomp'16] [SpotGarbage: Smartphone App to Detect Garbage Using Deep Learning](https://dl.acm.org/doi/pdf/10.1145/2971648.2971731) </br>
 [Ubicomp'15] [DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning](https://dl.acm.org/doi/pdf/10.1145/2750858.2804262) </br>
+[ATC'21] [Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning](https://www.usenix.org/conference/atc21/presentation/zhou-qihua) </br>
 
 
 ## AR/VR
@@ -42,8 +43,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [ASPLOS'20] [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) </br>
 [MobiCom'19] [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](https://dl.acm.org/doi/10.1145/3300061.3300116) </br>
 [EuroSys'19] [Transparent AR Processing Acceleration at the Edge](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) </br>
-
 [ASPLOS'21] [Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering](https://dl.acm.org/doi/abs/10.1145/3445814.3446715) </br>
+[ATC'20] [Firefly: Untethered Multi-user VR for Commodity Mobile Devices](https://www.usenix.org/conference/atc20/presentation/liu-xing) </br>
 
 
 ## IoTs
@@ -63,25 +64,24 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [Ubicomp'17] [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://dl.acm.org/doi/pdf/10.1145/3131895)</br>
 [MobiSys‘16] [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](https://doi.org/10.1145/2906388.2906396)</br>
 [SenSys‘16] [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](https://doi.org/10.1145/2994551.2994564)</br>
-
 [ASPLOS'21] [Rhythmic Pixel Regions: Visual sensing architecture for flexible spatiotemporal resolution towards high-precision visual computing at low power](https://dl.acm.org/doi/abs/10.1145/3445814.3446737) </br>
-
 [NSDI'21] [AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel](https://www.usenix.org/conference/nsdi21/presentation/qian) </br>
-
 [NSDI'21] [MAVL: Multiresolution Analysis of Voice Localization](https://www.usenix.org/conference/nsdi21/presentation/wang)
-
-
-
+[OSDI'20] [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](https://www.usenix.org/conference/osdi20/presentation/jiang)</br>
+[OSDI'20] [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/conference/osdi20/presentation/bai)</br>
+[OSDI'20] [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/conference/osdi20/presentation/gujarati)</br>
+[ATC'21] [Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) </br>
+[ATC'21] [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan) </br>
+[EuroSys'20] [Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning](https://dl.acm.org/doi/abs/10.1145/3342195.3387555) </br>
 
 ## Energy-harvested devices
 
 [MobiSys‘20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
 [SenSys‘20] [Ember: Energy Management of Batteryless Event Detection Sensors with Deep Reinforcement Learning](https://doi.org/10.1145/3384419.3430734)</br>
 [ASPLOS'19] [Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems](https://brandonlucia.com/pubs/2019.asplos.sonic.pdf) </br>
-
 [ASPLOS'21] [Quantifying the Design-Space Tradeoffs in Autonomous Drones](https://dl.acm.org/doi/abs/10.1145/3445814.3446721) </br>
-
 [ASPLOS'21] [Rhythmic Pixel Regions: Visual sensing architecture for flexible spatiotemporal resolution towards high-precision visual computing at low power](https://dl.acm.org/doi/abs/10.1145/3445814.3446737) </br>
+
 
 ## Privacy&Security
 
@@ -92,6 +92,11 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [Ubicomp'19] [Keyboard Snooping from Mobile Phone Arrays with Mixed Convolutional and Recurrent Neural Networks](https://doi.org/10.1145/3328916)</br>
 [MobiCom'19] [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/doi/10.1145/3300061.3345447) </br>
 [EuroSys'19] [Forward and Backward Private Searchable Encryption with SGX](https://dl.acm.org/doi/pdf/10.1145/3301417.3312496) </br> 
+[SOSP'21] [FedScale: Benchmarking Model and System Performance of Federated Learning](https://dl.acm.org/doi/10.1145/3477114.3488760) </br>
+[SOSP'21] [Redundancy in cost functions for Byzantine fault-tolerant federated learning](https://dl.acm.org/doi/10.1145/3477114.3488761) </br>
+[SOSP'21] [Towards an Efficient System for Differentially-private, Cross-device Federated Learning](https://dl.acm.org/doi/10.1145/3477114.3488762) </br>
+[SOSP'21] [Community-Structured Decentralized Learning for Resilient EI](https://dl.acm.org/doi/10.1145/3477114.3488764) </br>
+[SOSP'21] [Separation of Powers in Federated Learning (Poster Paper)](https://dl.acm.org/doi/10.1145/3477114.3488765) </br>
 
 
 ## Learning
@@ -99,7 +104,17 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
 [SenSys‘19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
 [UbiComp'18] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)</br>
-
 [NSDI'21] [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo)</br>
+[OSDI'20] [KungFu: Making Training in Distributed Machine Learning Adaptive](https://www.usenix.org/conference/osdi20/presentation/mai)</br>
+[OSDI'20] [A Tensor Compiler for Unified Machine Learning Prediction Serving](https://www.usenix.org/conference/osdi20/presentation/nakandala)</br>
+[OSDI'20] [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://www.usenix.org/conference/osdi20/presentation/zheng)</br>
+[ATC'21] [Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems](https://www.usenix.org/conference/atc21/presentation/ma) </br>
+[ATC'21] [Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training](https://www.usenix.org/conference/atc21/presentation/yu) </br>
+[ATC'21] [Zico: Efficient GPU Memory Sharing for Concurrent DNN Training](https://www.usenix.org/conference/atc21/presentation/lim) </br>
+[ATC'21] [Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training](https://www.usenix.org/conference/atc21/presentation/lee) </br>
+[ATC'21] [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) </br>
+[EuroSys'21] [Accelerating graph sampling for graph machine learning using GPUs](https://dl.acm.org/doi/10.1145/3447786.3456244) </br>
+[EuroSys'21] [DGCL: An Efficient Communication Library for Distributed GNN Training](https://dl.acm.org/doi/abs/10.1145/3447786.3456233) </br>
+[EuroSys'21] [Seastar: Vertex-Centric Programming for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3447786.3456247) </br>
 
 Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
