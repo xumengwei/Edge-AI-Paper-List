@@ -106,11 +106,6 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [Ubicomp'19] [Keyboard Snooping from Mobile Phone Arrays with Mixed Convolutional and Recurrent Neural Networks](https://doi.org/10.1145/3328916)</br>
 [MobiCom'19] [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/doi/10.1145/3300061.3345447) </br>
 [EuroSys'19] [Forward and Backward Private Searchable Encryption with SGX](https://dl.acm.org/doi/pdf/10.1145/3301417.3312496) </br> 
-[SOSP'21] [FedScale: Benchmarking Model and System Performance of Federated Learning](https://dl.acm.org/doi/10.1145/3477114.3488760) </br>
-[SOSP'21] [Redundancy in cost functions for Byzantine fault-tolerant federated learning](https://dl.acm.org/doi/10.1145/3477114.3488761) </br>
-[SOSP'21] [Towards an Efficient System for Differentially-private, Cross-device Federated Learning](https://dl.acm.org/doi/10.1145/3477114.3488762) </br>
-[SOSP'21] [Community-Structured Decentralized Learning for Resilient EI](https://dl.acm.org/doi/10.1145/3477114.3488764) </br>
-[SOSP'21] [Separation of Powers in Federated Learning (Poster Paper)](https://dl.acm.org/doi/10.1145/3477114.3488765) </br>
 
 
 ## Learning
