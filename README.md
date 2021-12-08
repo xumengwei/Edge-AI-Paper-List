@@ -96,9 +96,9 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 ## Privacy&Security
 
+[MobiCom'21] [PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation](https://dl.acm.org/doi/10.1145/3447993.3448618) </br>
 [MobiSys‘21] [SafetyNOT: on the usage of the SafetyNet attestation API in Android](https://dl.acm.org/doi/10.1145/3458864.3466627) </br>
 [MobiSys‘21] [Rushmore: securely displaying static and animated images using TrustZone](https://dl.acm.org/doi/10.1145/3458864.3467887) </br>
-[MobiSys‘21] [MobiCom'21] [PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation](https://dl.acm.org/doi/10.1145/3447993.3448618) </br>
 [MobiCom'20] [FaceRevelio: A Face Liveness Detection System for Smartphones with A Single Front Camera](https://dl.acm.org/doi/pdf/10.1145/3372224.3419206) </br>
 [ASPLOS'20] [DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532) </br>
 [Ubicomp'20] [Countering Acoustic Adversarial Attacks in Microphone-equipped mart Home Devices](https://doi.org/10.1145/3397332)</br>
