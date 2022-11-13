@@ -110,7 +110,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 
 ## Learning
-[SigComm'22] [Multi-resource interleaving for deep learning training][https://dl.acm.org/doi/pdf/10.1145/3544216.3544224] </br>
+[SigComm'22] [Multi-resource interleaving for deep learning training](https://dl.acm.org/doi/pdf/10.1145/3544216.3544224) </br>
 [ASPLOS'22] [Breaking the computation and communication abstraction barrier in distributed machine learning workloads](https://dl.acm.org/doi/10.1145/3503222.3507778) </br>
 [MobiCom'21] [Hermes: an efficient federated learning framework for heterogeneous mobile clients](https://dl.acm.org/doi/10.1145/3447993.3483278) </br>
 [MobiSys‘21] [PPFL: privacy-preserving federated learning with trusted execution environments](https://dl.acm.org/doi/10.1145/3458864.3466628) </br>
