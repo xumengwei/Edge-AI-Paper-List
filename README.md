@@ -95,7 +95,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 
 ## Privacy&Security
-
+[ASPLOS'22] [Eavesdropping User Credentials via GPU Side Channels on Smartphones](https://dl.acm.org/doi/10.1145/3503222.3507757) </br>
+[NSDI'22] [Privid: Practical, Privacy-Preserving Video Analytics Queries](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf) </br>
 [MobiCom'21] [PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation](https://dl.acm.org/doi/10.1145/3447993.3448618) </br>
 [MobiSys‘21] [SafetyNOT: on the usage of the SafetyNet attestation API in Android](https://dl.acm.org/doi/10.1145/3458864.3466627) </br>
 [MobiSys‘21] [Rushmore: securely displaying static and animated images using TrustZone](https://dl.acm.org/doi/10.1145/3458864.3467887) </br>
@@ -109,7 +110,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 
 ## Learning
-
+[SigComm'22] [Multi-resource interleaving for deep learning training][https://dl.acm.org/doi/pdf/10.1145/3544216.3544224] </br>
+[ASPLOS'22] [Breaking the computation and communication abstraction barrier in distributed machine learning workloads](https://dl.acm.org/doi/10.1145/3503222.3507778) </br>
 [MobiCom'21] [Hermes: an efficient federated learning framework for heterogeneous mobile clients](https://dl.acm.org/doi/10.1145/3447993.3483278) </br>
 [MobiSys‘21] [PPFL: privacy-preserving federated learning with trusted execution environments](https://dl.acm.org/doi/10.1145/3458864.3466628) </br>
 [MobiSys‘21] [ClusterFL: a similarity-aware federated learning system for human activity recognition](https://dl.acm.org/doi/10.1145/3458864.3467681) </br>
