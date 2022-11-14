@@ -133,5 +133,8 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [EuroSys'21] [Accelerating graph sampling for graph machine learning using GPUs](https://dl.acm.org/doi/10.1145/3447786.3456244) </br>
 [EuroSys'21] [DGCL: An Efficient Communication Library for Distributed GNN Training](https://dl.acm.org/doi/abs/10.1145/3447786.3456233) </br>
 [EuroSys'21] [Seastar: Vertex-Centric Programming for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3447786.3456247) </br>
+[EuroSys'22] [Varuna: Scalable, Low-cost Training of Massive Deep Learning Models (Best Paper Award)](https://dl.acm.org/doi/pdf/10.1145/3492321.3519584) </br>
+[EuroSys'22] [GNNLab: A Factored System for Sample-based GNN Training over GPUs](https://dl.acm.org/doi/pdf/10.1145/3492321.3519557) </br>
+[EuroSys'22] [Out-Of-Order BackProp: An Effective Scheduling Technique for Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3492321.3519563) </br>
 
 Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
