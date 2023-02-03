@@ -188,22 +188,10 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SenSys'22] [BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf) </br>
 [SenSys'22] [PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference](https://arxiv.org/pdf/2211.06716v1.pdf) </br>
 [UbiComp'22] [Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud](https://dl.acm.org/doi/10.1145/3494981) </br>
-~~[OSDI'22] [SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)</br>~~
-~~[OSDI'22] [ROLLER: Fast and Efficient Tensor Compilation for Deep Learning](https://www.usenix.org/system/files/osdi22-zhu.pdf)</br>~~
 [OSDI'22] [Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://www.usenix.org/system/files/osdi22-lv.pdf)</br>
-~~[OSDI'22] [Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization](https://www.usenix.org/system/files/osdi22-unger.pdf)</br>~~
-~~[ATC'22] [Faith: An Efficient Framework for Transformer Verification on GPUs](https://www.usenix.org/system/files/atc22-feng.pdf) </br>~~ 
-~~[ATC'22] [DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs](https://www.usenix.org/system/files/atc22-cui.pdf) </br>~~ 
-~~[ATC'22] [Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing](https://www.usenix.org/system/files/atc22-choi-seungbeom.pdf) </br>~~
-~~[ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf) </br>~~ 
 [ATC'22] [Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training](https://www.usenix.org/system/files/atc22-he.pdf) </br>
-~~[ATC'22] [Primo: Practical Learning-Augmented Systems with Interpretable Models](https://www.usenix.org/system/files/atc22-hu.pdf) </br>~~ 
-~~[ATC'22] [Cachew: Machine Learning Input Data Processing as a Service](https://www.usenix.org/system/files/atc22-graur.pdf) </br>~~
 [ATC'22] [SOTER: Guarding Black-box Inference for General Neural Networks at the Edge](https://www.usenix.org/system/files/atc22-shen.pdf) </br>
 [EuroSys'22] [Varuna: Scalable, Low-cost Training of Massive Deep Learning Models (Best Paper Award)](https://dl.acm.org/doi/pdf/10.1145/3492321.3519584) </br>
-~~[EuroSys'22] [GNNLab: A Factored System for Sample-based GNN Training over GPUs](https://dl.acm.org/doi/pdf/10.1145/3492321.3519557) </br>~~
-~~[EuroSys'22] [Out-Of-Order BackProp: An Effective Scheduling Technique for Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3492321.3519563) </br>~~
-~~[EuroSys'22] [Fleche: An Efficient GPU Embedding Cache for Personalized Recommendations](https://dl.acm.org/doi/pdf/10.1145/3492321.3519554) </br>~~
 
 ### 2021
 [MobiCom'21] [Hermes: an efficient federated learning framework for heterogeneous mobile clients](https://dl.acm.org/doi/10.1145/3447993.3483278) </br>
@@ -215,28 +203,12 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [SenSys'21] [FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://dl.acm.org/doi/10.1145/3485730.3485929)  </br>
 [NSDI'21] [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo)</br>
 [OSDI'21] [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/system/files/osdi21-lai.pdf)</br>
-~~[OSDI'21] [Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning (Awarded Best Paper)](https://www.usenix.org/system/files/osdi21-qiao.pdf)</br>~~
-~~[OSDI'21] [P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/system/files/osdi21-gandhi.pdf)</br>~~
-~~[OSDI'21] [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)</br>~~
-~~[OSDI'21] [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads](https://www.usenix.org/system/files/osdi21-thorpe.pdf)</br>~~
 [ATC'21] [Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems](https://www.usenix.org/conference/atc21/presentation/ma) </br>
 [ATC'21] [Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training](https://www.usenix.org/conference/atc21/presentation/yu) </br>
-~~[ATC'21] [Zico: Efficient GPU Memory Sharing for Concurrent DNN Training](https://www.usenix.org/conference/atc21/presentation/lim) </br>~~
-~~[ATC'21] [Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training](https://www.usenix.org/conference/atc21/presentation/lee) </br>~~
-~~[ATC'21] [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) </br>~~
-~~[EuroSys'21] [Accelerating graph sampling for graph machine learning using GPUs](https://dl.acm.org/doi/10.1145/3447786.3456244) </br>~~
-~~[EuroSys'21] [DGCL: An Efficient Communication Library for Distributed GNN Training](https://dl.acm.org/doi/abs/10.1145/3447786.3456233) </br>~~
-~~[EuroSys'21] [Seastar: Vertex-Centric Programming for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3447786.3456247) </br>~~
-~~[SOSP'21] [Gradient Compression Supercharged High-Performance Data Parallel DNN Training](https://dl.acm.org/doi/10.1145/3477132.3483553) </br>~~
-~~[SOSP'21] [Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/3477132.3483590) </br>~~
 
 ### 2020 and before
 [MobiCom'20] [Billion-scale Federated Learning on Mobile Clients: a submodel design with tunable privacy](https://dl.acm.org/doi/pdf/10.1145/3372224.3419188) </br>
-~~[OSDI'20] [KungFu: Making Training in Distributed Machine Learning Adaptive](https://www.usenix.org/conference/osdi20/presentation/mai)</br>~~
 [OSDI'20] [A Tensor Compiler for Unified Machine Learning Prediction Serving](https://www.usenix.org/conference/osdi20/presentation/nakandala)</br>
-~~[OSDI'20] [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://www.usenix.org/conference/osdi20/presentation/zheng)</br>~~
-~~[SOSP'19] [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://dl.acm.org/doi/10.1145/3341301.3359646) </br>~~
-~~[SOSP'19] [A Generic Communication Scheduler for Distributed DNN Training Acceleration](https://dl.acm.org/doi/10.1145/3341301.3359642) </br>~~
 [SenSys'19] [MetaSense: Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing](https://doi.org/10.1145/3356250.3360020)</br>
 [UbiComp'18] [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)</br>
 
