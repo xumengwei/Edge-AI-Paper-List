@@ -169,6 +169,9 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 
 *Strikethrough indicates that these papers may have nothing to do with mobile* 
 
+### 2023
+[ICLR'23] [MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/pdf?id=2QGJXyMNoPz) </br>
+
 ### 2022
 [MICRO'22] [GCD2: A Globally Optimizing Compiler for Mapping DNNs to Mobile DSPs](https://ieeexplore.ieee.org/document/9923837/) </br>
 [MobiSys'22] [mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices](https://doi.org/10.1145/3498361.3538940) </br>
