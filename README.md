@@ -6,6 +6,8 @@ We will keep maintaining this list :)
 
 Note: Edge here refers to resource-constrained devices, not edge servers; AI here mostly refers to deep learning.
 
+Attention: we are maintaining a dedicated paper list for [resource-efficient LLM algorithms/systems](https://github.com/UbiquitousLearning/Paper-list-resource-efficient-large-language-model).
+
 ## Smartphones
 
 ### 2022
