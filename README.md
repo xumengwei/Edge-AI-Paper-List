@@ -63,6 +63,7 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ## AR/VR
 
+[MobiCom'23] [AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality](https://dl.acm.org/doi/10.1145/3570361.3592531) </br>
 [MobiCom'22] [SalientVR: saliency-driven mobile 360-degree video streaming with gaze information](https://dl.acm.org/doi/abs/10.1145/3495243.3517018) </br>
 [MobiCom'21] [Face-Mic: inferring live speech and speaker identity via subtle facial dynamics captured by AR/VR motion sensors](https://dl.acm.org/doi/10.1145/3447993.3483272) </br>
 [MobiSys'21] [Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality](https://dl.acm.org/doi/10.1145/3458864.3467886) </br>
@@ -77,6 +78,8 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ## IoTs
 
+### 2023
+[MobiCom'23] [Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios](https://dl.acm.org/doi/10.1145/3570361.3592514) </br>
 ### 2022
 [MobiSys'22] [TEO: Ephemeral Ownership for IoT Devices to Provide Granular Data Control](https://doi.org/10.1145/3498361.3539774) </br>
 [MobiSys'22] [TinyNet: a Lightweight, Modular, and Unified Network Architecture for the Internet of Things](https://doi.org/10.1145/3498361.3538919) </br>
@@ -121,6 +124,8 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ## Energy-harvested devices
 
+[MobiCom'23] [LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup](https://dl.acm.org/doi/10.1145/3570361.3613285) </br>
+[MobiCom'23] [AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments](https://dl.acm.org/doi/10.1145/3570361.3592529) </br>
 [MobiSys'20] [Approximate Query Service on Autonomous IoT Cameras](https://doi.org/10.1145/3386901.3388948)</br>
 [SenSys'20] [Ember: Energy Management of Batteryless Event Detection Sensors with Deep Reinforcement Learning](https://doi.org/10.1145/3384419.3430734)</br>
 [ASPLOS'19] [Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems](https://brandonlucia.com/pubs/2019.asplos.sonic.pdf) </br>
@@ -131,6 +136,12 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 
 ## Privacy&Security
+
+### 2023
+[MobiCom'23] [Efficient Federated Learning for Modern NLP](https://dl.acm.org/doi/10.1145/3570361.3592505) </br>
+[MobiCom'23] [Federated Few-shot Learning for Mobile NLP](https://dl.acm.org/doi/10.1145/3570361.3613277) </br>
+[MobiCom'23] [Enc2: Privacy-Preserving Inference for Tiny IoTs via Encoding and Encryption](https://dl.acm.org/doi/10.1145/3570361.3592501) </br>
+[MobiCom'23] [AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving](https://dl.acm.org/doi/10.1145/3570361.3592517) </br>
 
 ### 2022
 [MobiCom'22] [Audio-domain Position-independent Backdoor Attack via Unnoticeable Triggers](https://dl.acm.org/doi/10.1145/3495243.3560531) </br>
