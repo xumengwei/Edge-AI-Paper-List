@@ -184,6 +184,7 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ### 2023
 [ICLR'23] [MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/pdf?id=2QGJXyMNoPz) </br>
+[EuroSys'23] [REFL: Resource-Efficient Federated Learning](https://dl.acm.org/doi/10.1145/3552326.3567485) </br>
 
 ### 2022
 [MICRO'22] [GCD2: A Globally Optimizing Compiler for Mapping DNNs to Mobile DSPs](https://ieeexplore.ieee.org/document/9923837/) </br>
