@@ -89,6 +89,7 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 [ATC'22] [CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics](https://www.usenix.org/system/files/atc22-hwang.pdf) </br>
 [EuroSys'22] [LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577) </br>
 [SenSys'22] [AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles](https://yanzhenyu.com/assets/pdf/AutoMatch-SenSys22.pdf) </br>
+[NeurIPS'22] [On-Device Training Under 256KB Memory](https://proceedings.neurips.cc/paper_files/paper/2022/file/90c56c77c6df45fc8e556a096b7a2b2e-Paper-Conference.pdf) </br>
 
 ### 2021
 [ATC'21] [Video Analytics with Zero-streaming Cameras](https://xumengwei.github.io/files/ATC-DIVA.pdf)</br>
