@@ -80,6 +80,7 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ### 2023
 [MobiCom'23] [Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios](https://dl.acm.org/doi/10.1145/3570361.3592514) </br>
+[NSDI'23][Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge](https://www.usenix.org/conference/nsdi23/presentation/padmanabhan) </br>
 ### 2022
 [MobiSys'22] [TEO: Ephemeral Ownership for IoT Devices to Provide Granular Data Control](https://doi.org/10.1145/3498361.3539774) </br>
 [MobiSys'22] [TinyNet: a Lightweight, Modular, and Unified Network Architecture for the Internet of Things](https://doi.org/10.1145/3498361.3538919) </br>
@@ -186,6 +187,8 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 ### 2023
 [ICLR'23] [MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/pdf?id=2QGJXyMNoPz) </br>
 [EuroSys'23] [REFL: Resource-Efficient Federated Learning](https://dl.acm.org/doi/10.1145/3552326.3567485) </br>
+[NSDI'23] [FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue) </br>
+[NSDI'23][RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics](https://www.usenix.org/conference/nsdi23/presentation/khani) </br>
 
 ### 2022
 [MICRO'22] [GCD2: A Globally Optimizing Compiler for Mapping DNNs to Mobile DSPs](https://ieeexplore.ieee.org/document/9923837/) </br>
