@@ -10,6 +10,9 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ## Smartphones
 
+### 2023
+[ASPLOS'23] [TelaMalloc: Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators](https://dl.acm.org/doi/10.1145/3567955.3567961) </br>
+
 ### 2022
 
 [MobiSys'22] [FabToys: Plush Toys with Large Arrays of Fabric-based Pressure Sensors to Enable Fine-grained Interaction Detection](https://dl.acm.org/doi/10.1145/3498361.3538931) </br>
@@ -80,7 +83,16 @@ Attention: we are maintaining a dedicated paper list for [resource-efficient LLM
 
 ### 2023
 [MobiCom'23] [Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios](https://dl.acm.org/doi/10.1145/3570361.3592514) </br>
-[NSDI'23][Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge](https://www.usenix.org/conference/nsdi23/presentation/padmanabhan) </br>
+[NSDI'23] [Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge](https://www.usenix.org/conference/nsdi23/presentation/padmanabhan) </br>
+[ASPLOS'23] [Space-Efficient TREC for Enabling Deep Learning on Microcontrollers](https://dl.acm.org/doi/10.1145/3582016.3582062) </br>
+[ASPLOS'23] [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://dl.acm.org/doi/10.1145/3575693.3575698) </br>
+[ASPLOS'23] [HuffDuff: Stealing Pruned DNNs from Sparse Accelerators](https://dl.acm.org/doi/10.1145/3575693.3575738) </br>
+[HPCA'23] [GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks](https://browse.arxiv.org/pdf/2203.00158.pdf) </br>
+[HPCA'23] [Mix-GEMM: An efficient HW-SW Architecture for Mixed-Precision Quantized Deep Neural Networks Inference on Edge Devices](https://ieeexplore.ieee.org/document/10071076) </br>
+[HPCA'23] [FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference](https://ieeexplore.ieee.org/document/10071015/) </br>
+[ISCA'23] [Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators](https://dl.acm.org/doi/abs/10.1145/3579371.3589048) </br>
+
+
 ### 2022
 [MobiSys'22] [TEO: Ephemeral Ownership for IoT Devices to Provide Granular Data Control](https://doi.org/10.1145/3498361.3539774) </br>
 [MobiSys'22] [TinyNet: a Lightweight, Modular, and Unified Network Architecture for the Internet of Things](https://doi.org/10.1145/3498361.3538919) </br>
