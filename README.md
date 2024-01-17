@@ -1,3 +1,5 @@
+> :warning: This repository is not maintained actively. Checkout our [survey paper](https://arxiv.org/pdf/2401.08092.pdf) on efficient LLM and the corresponding [paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey).
+
 # Edge-AI-Paper-List
 
 **Target venues**: system conferences (*OSDI/SOSP/ATC/EuroSys/ASPLOS*), network conferences (*NSDI/SIGCOMM*) and mobile conferences (*MobiCom/MobiSys/SenSys/UbiComp*).
